@@ -1,12 +1,12 @@
-## Hi there 👋
+# Каталог MCP
 
-<!--
+[mcp-katalog.ru](https://mcp-katalog.ru) – каталог MCP-серверов на русском для AI-агентов.
 
-**Here are some ideas to get you started:**
+Под большинство задач MCP-сервер уже кто-то написал. Сложнее его найти: репозитории разбросаны по GitHub, README на английском, а конфиг под свой клиент приходится собирать по кускам из issues. Мы эту часть работы забрали себе.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Что есть на Каталог MCP:
+- 📚 2100+ серверов, разложенных по 72 категориям. Есть отдельная категория для российских сервисов 🇷🇺
+- 🛠 Описание каждого сервера на русском и готовые конфиги под популярные клиенты
+- 🔄 Звезды, описания, списки инструментов и конфиги подтягиваются автоматически, каталог обновляется каждый день.
+
+Не нашли нужный сервер? 👉 Нажмите «Добавить сервер» на сайте, хватит ссылки на GitHub.
